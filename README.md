@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 👨🏻‍💻  About Me
-🎓  I'm currently studying Computer Science and Economics at the Colby College.
+🎓  I'm currently studying Computer Science and Economics at the Colby College, ME, USA
 
 🇻🇳  I'm from Hanoi, Vietnam 
 
