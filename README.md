@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 #### 👨🏻‍💻  About Me
 🎓  I'm currently studying Computer Science and Economics at the Colby College.
+
 🇻🇳  I'm from Hanoi, Vietnam 
+
 😄  My pronouns are she her her
+
 🌱  I’m interested in data analytics, devops engineering, and machine learning.
+
 👀  My hobbies are playing table tennis and making clay crafts. Follow me on tiktok at banhbaokieusa to watch my tutorials!
+
 🔭  I'm open to any opporutnities to work, collaborate, and connect with folks who share the same interests (both technically and recreationally!)
+
 📫  You can reach me at: phuongqnguyenngoc2001@gmail.com
 
 
