@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🇻🇳  I'm from Hanoi, Vietnam 
 
-😄  My pronouns are she her her
+😄  My pronouns are she/her/hers
 
 🌱  I’m interested in data analytics, devops engineering, and machine learning.
 
