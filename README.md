@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🌱  I’m interested in data analytics, devops engineering, and machine learning.
 
-👀  My hobbies are playing table tennis and making clay crafts. Follow me on tiktok at banhbaokieusa to watch my tutorials!
+👀  My hobbies are playing table tennis and making clay crafts.
 
 🔭  I'm open to any opporutnities to work, collaborate, and connect with folks who share the same interests (both technologically and recreationally!)
 
